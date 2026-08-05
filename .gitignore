@@ -1,0 +1,28 @@
+# Virtual Environment
+venv/
+env/
+
+# Datasets & Training Data
+archive (1)/
+egitim_verisi/
+egitim_verisi_2/
+egitim_verisi_raf/
+
+# Heavy Model Files
+*.pt
+*.onnx
+*.h5
+*.weights
+*.bin
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Test Files & Images
+image.png
+
+# IDE / OS Settings
+.vscode/
+.idea/
+.DS_Store
