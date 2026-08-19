@@ -4,12 +4,7 @@ Bu proje; kütüphane raflarındaki kitap sırtı etiketlerini bilgisayarlı gö
 
 ---
 
-## 🎬 Canlı Demo
-
-<div align="center">
-  <img src="assets\images\demo2.gif" alt="Kütüphane Raf Analiz Demosu" width="750"/>
-</div>
-
+![ Demo](mobile_app/assets/images/demo2.gif)
 ---
 
 ## 🚀 Proje Mimarisi ve Çalışma Mantığı
